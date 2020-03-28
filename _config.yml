@@ -51,6 +51,8 @@ author:
 collections:
   geocaches:
     output: true
+  hints:
+    output: true
 
 footer_links:
   - title: Geocaching Profile
