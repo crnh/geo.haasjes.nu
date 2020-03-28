@@ -27,7 +27,7 @@ url: "https://geo.haasjes.nu" # the base hostname & protocol for your site, e.g.
 github_username: crnh
 
 copyright: >
-  © 2020 team geohaasjes. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> with the <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a> theme.
+  © 2020 team geohaasjes. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> with the <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a> theme. Deploys by <a href="https://netlify.com" rel="nofollow">Netlify</a>.
 
 # Build settings
 theme: jekyll-theme-so-simple
